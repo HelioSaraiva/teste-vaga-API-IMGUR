@@ -1,0 +1,3 @@
+package com.example.testevagaimgur.model
+
+class DescriptionAnnotations
